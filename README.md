@@ -1,9 +1,12 @@
-Intended for Debian Linux. This is a network scanner that allows you to discover all devices in the subnet by sending an arp message with the broadcast mac address to all hosts in the subnet.
+Intended for Debian Linux.
+Description:
+This is a network scanner that allows you to discover all devices in the subnet by sending an arp message with the broadcast mac address to all hosts in the subnet.
 
 Prerequisites:
 
 scapy.all
 optparse
+
 To install: 
 
 pip install scapy.all 
