@@ -4,7 +4,7 @@ import optparse
  
 def get_arguments():
     parser = optparse.OptionParser()
-    parser.add_option("-t", "--target", dest="ip", help="chose the ip which u want to find")
+    parser.add_option("-t", "--target", dest="ip", help="choose the ip which u want to find")
     # return parser.parse_args()
     (options, arg) = parser.parse_args()
     if not options.ip:
