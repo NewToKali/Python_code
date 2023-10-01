@@ -3,7 +3,7 @@
 
 <h2>Description:</h2>
 
-This is a network scanner that allows you to discover all devices in the subnet by sending an arp message with the broadcast mac address to all hosts in the subnet.
+This network scanner enables you to identify all devices within a subnet by broadcasting an ARP message with a broadcast MAC address to all hosts in the same subnet.
 
 <h2>Prerequisites:</h2>
 
